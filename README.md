@@ -1,9 +1,9 @@
-
+<div align='center'>
 ### Hi there 👋
 
 ![image-20220619204201621](README.assets/image-20220619204201621.png)
 
-<div align='center'>
+
 🌱 Tech Stack
 
 <hr>
