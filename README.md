@@ -23,17 +23,19 @@
 <hr>
 👨‍💻 백준
 
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongh94)](http://solved.ac/dongh94/) 
 
 <hr>
-</div>
-
 💯 Stats
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongh94&show_icons=true&theme=compact)
 
----
+<hr>
 
 🆕 Velog
 
 <!--[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongh94)](https://github.com/dongh94/velog-readme-stats) -->
+<hr>
+</div>
