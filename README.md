@@ -20,20 +20,20 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongh94%2Fhit-counter&count_bg=%23D61C4E&title_bg=%237C3E66&icon=cliqz.svg&icon_color=%23F2EBE9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<hr>
 
+<hr>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongh94)](http://solved.ac/dongh94/) 
 
-<hr>
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongh94&show_icons=true&theme=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongh94&langs_count=8&layout=compact&theme=ayu-mirage)](https://github.com/dongh94/github-readme-stats)
+
 
 <hr>
 
 🆕 Velog
 
 <!--[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongh94)](https://github.com/dongh94/velog-readme-stats) -->
+
 <hr>
 </div>
